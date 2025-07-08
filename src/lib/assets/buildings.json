@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Suzzallo Library",
+    "fun_fact": "Its magnificent Graduate Reading Room, with its 65-foot-high vaulted ceiling and stained-glass windows, is often compared to the library in Harry Potter's Hogwarts.",
+    "location": {
+      "latitude": 47.6559,
+      "longitude": -122.3050,
+      "pixelX": 185 ,
+      "pixelY": 749
+    }
+  },
+  {
+    "name": "Denny Hall",
+    "fun_fact": "Built in 1895, Denny Hall is the oldest building on the current UW campus and was originally the *only* building, housing all university functions.",
+    "location": {
+      "latitude": 47.6535,
+      "longitude": -122.3080,
+      "pixelX": 156,
+      "pixelY": 427
+    }
+  },
+  {
+    "name": "Husky Stadium",
+    "fun_fact": "Known for its stunning views of Lake Washington and the Cascade Mountains, it's also one of the loudest college football stadiums due to its cantilevered metal roof design trapping sound.",
+    "location": {
+      "latitude": 47.6505,
+      "longitude": -122.3020,
+      "pixelX": 520.4,
+      "pixelY": 1331.9
+    }
+  },
+  {
+    "name": "Odegaard Undergraduate Library (OUG)",
+    "fun_fact": "Features the most computer workstations on campus, numerous collaborative study spaces, 'Zoom Pods,' and even a recording sound booth for students.",
+    "location": {
+      "latitude": 47.6559,
+      "longitude": -122.3070,
+      "pixelX": 80,
+      "pixelY": 650.3
+    }
+  },
+  {
+    "name": "Paul G. Allen Center for Computer Science & Engineering",
+    "fun_fact": "Named after Microsoft co-founder Paul G. Allen, this state-of-the-art facility, along with the adjacent Bill & Melinda Gates Center, forms the heart of UW's renowned computer science program.",
+    "location": {
+      "latitude": 47.6539,
+      "longitude": -122.3049,
+      "pixelX": 300.1,
+      "pixelY": 1045.1
+    }
+  },
+  {
+    "name": "Mary Gates Hall (MGH)",
+    "fun_fact": "Named after Mary Maxwell Gates (a UW Regent and mother of Bill Gates), it houses key undergraduate resources like the Honors Program, Undergraduate Research Program, and the Career & Internship Center.",
+    "location": {
+      "latitude": 47.6563,
+      "longitude": -122.3099,
+      "pixelX": 215.5,
+      "pixelY": 867.3
+    }
+  },
+  {
+    "name": "Drumheller Fountain",
+    "fun_fact": "Originally the 'Geyser Basin' for the 1909 Alaska-Yukon-Pacific Exposition, it was later nicknamed 'Frosh Pond' due to a tradition of tossing unsuspecting first-year students into its waters.",
+    "location": {
+      "latitude": 47.6550,
+      "longitude": -122.3090,
+      "pixelX": 210,
+      "pixelY": 984
+    }
+  },
+  {
+    "name": "Sylvan Grove & Columns",
+    "fun_fact": "This tranquil outdoor amphitheater features four original Ionic columns from the first UW building (1861) in downtown Seattle, representing Loyalty, Industry, Faith, and Efficiency (LIFE).",
+    "location": {
+      "latitude": 47.6570,
+      "longitude": -122.3105,
+      "pixelX": 286,
+      "pixelY": 1115
+    }
+  },
+  {
+    "name": "Husky Union Building (HUB)",
+    "fun_fact": "A central spot for student life, the HUB has hosted concerts by famous artists like Tina Turner and The Ramones. Bill Gates Sr. also famously courted his future wife, Mary Maxwell, here.",
+    "location": {
+      "latitude": 47.6547,
+      "longitude": -122.3029,
+      "pixelX": 337,
+      "pixelY": 800
+    }
+  },
+  {
+    "name": "Kane Hall (KNE)",
+    "fun_fact": "One of the largest lecture facilities on campus, Kane Hall often hosts major university events, distinguished guest speakers, and its architecture is a notable example of campus modernism.",
+    "location": {
+      "latitude": 47.6566,
+      "longitude": -122.3071,
+      "pixelX": 140,
+      "pixelY": 652
+    }
+  },
+  {
+    "name": "Meany Hall for the Performing Arts (MNY)",
+    "fun_fact": "The premier performing arts venue on campus, named after beloved history professor Edmond S. Meany. It presents a diverse range of international music, dance, and theater performances.",
+    "location": {
+      "latitude": 47.6573,
+      "longitude": -122.3077,
+      "pixelX": 72,
+      "pixelY": 765.1
+    }
+  },
+  {
+    "name": "Burke Museum of Natural History and Culture (BMM)",
+    "fun_fact": "Washington State's oldest public museum. Its new building, opened in 2019, features a unique design where visitors can see directly into research labs and collection storage areas.",
+    "location": {
+      "latitude": 47.6600,
+      "longitude": -122.3100,
+      "pixelX": 70,
+      "pixelY": 156
+    }
+  },
+  {
+    "name": "Henry Art Gallery (HAG)",
+    "fun_fact": "Established in 1927, it was the first public art museum in Washington state and is known for its contemporary art exhibitions and extensive photography collection.",
+    "location": {
+      "latitude": 47.6581,
+      "longitude": -122.3125,
+      "pixelX": 22,
+      "pixelY": 663.4
+    }
+  },
+  {
+    "name": "Paccar Hall (PCAR)",
+    "fun_fact": "Home to the Foster School of Business, Paccar Hall is recognized for its sustainable design, achieving LEED Gold certification for its environmentally friendly features.",
+    "location": {
+      "latitude": 47.6525,
+      "longitude": -122.3048,
+      "pixelX": 165.6,
+      "pixelY": 332.1
+    }
+  },
+  {
+    "name": "Magnuson Health Sciences Center",
+    "fun_fact": "One of the largest academic buildings in the world by volume when it was built, this sprawling complex houses six health science schools. Its K-wing is said to resemble a tooth from an aerial view.",
+    "location": {
+      "latitude": 47.6517,
+      "longitude": -122.3108,
+      "pixelX": 150.3,
+      "pixelY": 1350.6
+    }
+  },
+  {
+    "name": "Guggenheim Hall (GUG)",
+    "fun_fact": "Houses the Department of Aeronautics & Astronautics and features a wind tunnel used for aerospace research. It's named after the Guggenheim family, pioneers in aviation.",
+    "location": {
+      "latitude": 47.6544,
+      "longitude": -122.3060,
+      "pixelX": 275,
+      "pixelY": 933
+    }
+  },
+  {
+    "name": "Bagley Hall (BAG)",
+    "fun_fact": "The main building for the Department of Chemistry, Bagley Hall once housed a small, research-focused nuclear reactor (now decommissioned and removed).",
+    "location": {
+      "latitude": 47.6546,
+      "longitude": -122.3077,
+      "pixelX": 162,
+      "pixelY": 1022
+    }
+  },
+  {
+    "name": "The Quad (Liberal Arts Quadrangle)",
+    "fun_fact": "Famous for its thirty Yoshino cherry trees that create a breathtaking canopy of pink blossoms each spring. These trees were transplanted from the Washington Park Arboretum in the 1960s.",
+    "location": {
+      "latitude": 47.6560,
+      "longitude": -122.3089,
+      "pixelX": 238.8,
+      "pixelY": 536.7
+    }
+  },
+  {
+    "name": "Physics/Astronomy Auditorium (PAA) & Observatory (OBS)",
+    "fun_fact": "The PAA is a major lecture hall for science. Nearby, the Theodor Jacobsen Observatory, built in 1895, still has its original telescope and offers public viewing nights.",
+    "location": {
+      "latitude": 47.6533,
+      "longitude": -122.3036,
+      "pixelX": 50,
+      "pixelY": 1070
+    }
+  }
+]
